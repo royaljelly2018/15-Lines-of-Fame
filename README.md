@@ -14,4 +14,5 @@ The Python meetup has a reserved timeslot where developers can share and present
 
 # Instructions (command line)
 
-Prerequisite: Through the GitHub interface, for this repo using the instructions found here https://help.github.com/en/articles/fork-a-repo .
+Follow the instructions here 
+https://help.github.com/en/articles/fork-a-repo .
