@@ -1,18 +1,21 @@
-# Pythonistas-NL Code Sharing Repo
-This repo serves as Git practice for the Pythonistas-NL meetup. This meetup provides a community for Python developpers to code and learn. 
-The repository is intended to be forked, update with the contributors code, and then create pull request against this master repository.
+# Pythonistas-NL 15 Lines of Fame
+This repo serves as the central repo for the '15 lines of fame' timeslot in the Pythonistas-NL meetup. Participants can contribute code to this repository
+that will then be showcased by the contributor in the next meetup. 
 
-All code is then collected and can be presented during the meetup. 
+This repo provides all instructions to get up and running. 
 
-# Context:  Code Sharing
-The Python meetup has a reserved timeslot where developers can share and present snippets of code. This can be used for the following purposes:
-    - Troubeshooting --> Why doesn't this work?
-    - Advice 
-    - Showcase an achievement
-    - Showcase something cool
-    - Showcase a project
+## 15 Lines of Fame
+The '15 lines of fame' session is a reserved timeslot in the Pythonistas-NL meetup aimed at providing support for participants. 
+Participants can use this timeslot to share code and receive the groups undivided attention. Practical use-cases are:
+    - Asking for help ('Why does this not work?') 
+    - Showcasing something new that you've learned;
+    - Asking how to improve code
+    - etc.
 
-# Instructions (command line)
+We have a central huge screen that we can use to showcase code, but it's more conventient if participants contribute their code to a central repo. 
+This saves us from having to swap laptops for each snippet of code. 
+
+## Instructions (Git Command Line) 
 
 Follow the instructions here 
 https://help.github.com/en/articles/fork-a-repo .
