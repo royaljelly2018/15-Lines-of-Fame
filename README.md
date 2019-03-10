@@ -7,7 +7,7 @@ This repo provides all instructions to get up and running.
 ## 15 Lines of Fame
 The '15 lines of fame' session is a reserved timeslot in the Pythonistas-NL meetup aimed at providing support for participants. 
 Participants can use this timeslot to share code and receive the groups undivided attention. Practical use-cases are:
-- Asking for help ('Why does this not work?') 
+- Asking for help
 - Showcasing something new that you've learned;
 - Asking how to improve code
 - etc.
