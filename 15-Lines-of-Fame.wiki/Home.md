@@ -1,6 +1,4 @@
-Welcome to the 15-Lines-of-Fame wiki
-
-Terminal & Git Glossary
+Terminal & Git
 
 
 TAB - autofill
@@ -48,4 +46,5 @@ git checkout (name) - moves the pointer to the new branch
 git log —graph
 git checkout -b (newbranchname)
 git rebase
-git git config —global alias.st status [ the alias!
+git git config —global alias.st status [ the aliasWelcome to the 15-Lines-of-Fame wiki!
+
